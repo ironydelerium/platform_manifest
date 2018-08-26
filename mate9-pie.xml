@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<!-- Remove forked projects -->
+	<include name="remove.xml" />
+
+	<!-- Include forked AOSP -->
+	<include name="pie-aosp.xml"/>
+
+	<!-- Include device tree -->
+	<include name="pie-device.xml" />
+</manifest>
+

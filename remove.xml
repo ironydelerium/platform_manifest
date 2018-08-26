@@ -1,0 +1,4 @@
+<manifest>
+	<remove-project name="platform/system/core" />
+</manifest>
+
