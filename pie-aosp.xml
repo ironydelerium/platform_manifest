@@ -2,6 +2,6 @@
 	<remote name="github" fetch="https://github.com/" />
 	<remote name="mate9-pie" fetch="https://github.com/ironydelerium" />
 
-	<project path="system/core" name="android_system_core" remote="mate9-pie" revision="android-9.0" />
+	<project path="system/core" name="android_system_core" remote="mate9-pie" revision="mate9" />
 </manifest>
 
