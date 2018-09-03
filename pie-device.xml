@@ -4,6 +4,6 @@
 
 	<project path="device/huawei/mha" name="device_huawei_mha" remote="mate9-pie" revision="mha-pie" />
 	<project path="device/huawei/mha-kernel" name="Serenity" remote="mate9-pie" revision="master" />
-	<project path="vendor/huawei/mha" name="vendor_huawei_mha" remote="mate9-pie" />
+	<project path="vendor/huawei/mha" name="vendor_huawei_mha" remote="mate9-pie" revision="master" />
 </manifest>
 
