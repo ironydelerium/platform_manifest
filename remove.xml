@@ -1,5 +1,6 @@
 <manifest>
 	<remove-project name="platform/system/core" />
 	<remove-project name="platform/frameworks/base" />
+	<remove-project name="platform/external/syzkaller" />
 </manifest>
 
