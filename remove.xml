@@ -1,4 +1,5 @@
 <manifest>
 	<remove-project name="platform/system/core" />
+	<remove-project name="platform/frameworks/base" />
 </manifest>
 

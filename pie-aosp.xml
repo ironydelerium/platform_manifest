@@ -1,7 +1,7 @@
 <manifest>
 	<remote name="github" fetch="https://github.com/" />
 	<remote name="mate9-pie" fetch="https://github.com/ironydelerium" />
-
-	<project path="system/core" name="android_system_core" remote="mate9-pie" revision="mate9" />
+	<project path="system/core" name="platform_system_core" remote="mate9-pie" revision="mate9" />
+	<project path="frameworks/base" name="platform_frameworks_base" remote="mate9-pie" revision="pie-release" />
 </manifest>
 
