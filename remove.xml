@@ -3,7 +3,7 @@
 	<remove-project name="platform/system/core" />
 	<remove-project name="platform/frameworks/base" />
 
-	<!-- Remove unused device repos. -_>
+	<!-- Remove unused device repos. -->
 	<remove-project name="device/generic/goldfish" />
 	<remove-project name="device/generic/goldfish-opengl" />
 	<remove-project name="device/generic/mini-emulator-arm64" />	
