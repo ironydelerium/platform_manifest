@@ -31,19 +31,19 @@
 	<remove-project name="device/linaro/hikey" />	
 	<remove-project name="device/linaro/hikey-kernel" />
 	<remove-project name="device/sample" />
-	<remove-project name="packages/apps/Car/Dialer" />
-	<remove-project name="packages/apps/Car/Hvac" />
-	<remove-project name="packages/apps/Car/LatinIME" />
-	<remove-project name="packages/apps/Car/Launcher" />
-	<remove-project name="packages/apps/Car/LensPicker" />
-	<remove-project name="packages/apps/Car/libs" />
-	<remove-project name="packages/apps/Car/LocalMediaPlayer" />
-	<remove-project name="packages/apps/Car/Media" />
-	<remove-project name="packages/apps/Car/Messenger" />
-	<remove-project name="packages/apps/Car/Overview" />
-	<remove-project name="packages/apps/Car/Radio" />
-	<remove-project name="packages/apps/Car/Settings" />
-	<remove-project name="packages/apps/Car/Stream" />
-	<remove-project name="packages/apps/Car/SystemUpdater" />
+	<remove-project name="platform/packages/apps/Car/Dialer" />
+	<remove-project name="platform/packages/apps/Car/Hvac" />
+	<remove-project name="platform/packages/apps/Car/LatinIME" />
+	<remove-project name="platform/packages/apps/Car/Launcher" />
+	<remove-project name="platform/packages/apps/Car/LensPicker" />
+	<remove-project name="platform/packages/apps/Car/libs" />
+	<remove-project name="platform/packages/apps/Car/LocalMediaPlayer" />
+	<remove-project name="platform/packages/apps/Car/Media" />
+	<remove-project name="platform/packages/apps/Car/Messenger" />
+	<remove-project name="platform/packages/apps/Car/Overview" />
+	<remove-project name="platform/packages/apps/Car/Radio" />
+	<remove-project name="platform/packages/apps/Car/Settings" />
+	<remove-project name="platform/packages/apps/Car/Stream" />
+	<remove-project name="platform/packages/apps/Car/SystemUpdater" />
 </manifest>
 
